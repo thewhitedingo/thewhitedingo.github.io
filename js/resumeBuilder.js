@@ -88,7 +88,7 @@ var projects = {
 		{
 			"title": "<a href='http://thewhitedingo.github.io/jsPokeBattle/'>Pokemon Battle JS</a>",
 			"dates": "Completed January 2016",
-			"description": "A small app to battle two Pokemon. Made to demonstrate object oriented Javascript. Some bugs are still being worked on.",
+			"description": "A small app to battle two Pokemon. Made to demonstrate object oriented Javascript.",
 			"images": ""
 		},
 		{
