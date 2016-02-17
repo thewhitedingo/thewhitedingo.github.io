@@ -10,7 +10,7 @@ var bio = { // bio object to add to page
 	},
 	"welcomeMessage": "Welcome to my online resume. You'll find what you need here. Feel free to contact me with questions.",
 	"skills": [
-		"HTML", "CSS", "Javascript", "Jquery", "Determination", "Discipline"
+		"HTML5", "CSS3", "Javascript", "Jquery", "Knockout", "Determination", "Discipline"
 	],
 	"bioPic": "images/me.jpg",
 }
